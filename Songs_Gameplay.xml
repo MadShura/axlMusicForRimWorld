@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SongDef>
+    <clipPath>./AXLMusic/Sounds/AmongTheRuins</clipPath>
+    <volume>0.8</volume>
+  </SongDef>
+  <SongDef>
+    <clipPath>./AXLMusic/Sounds/ANewDawn</clipPath>
+    <volume>0.8</volume>
+  </SongDef>
+  <SongDef>
+    <clipPath>./AXLMusic/Sounds/AssemblingtheFleet</clipPath>
+    <volume>0.8</volume>
+  </SongDef>
+</Defs>  

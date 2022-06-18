@@ -1,0 +1,21 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true //每次保存自动fix
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "html",
+  ],
+  // jsx自动修复有问题，取消js的format
+  "editor.formatOnSave": false,
+
+  // Enable/disable default JavaScript formatter (For Prettier)
+  "javascript.format.enable": false,
+
+  "i18n-ally.localesPaths": [
+    "language"
+  ],
+  "files.eol": "\r\n" //强制用windows换行符
+}

@@ -1,0 +1,32 @@
+{
+  "name": "axlmusicforrimworld",
+  "version": "1.0.0",
+  "description": "制作rimworld 的自定义音乐",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-ndoe ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadShura/axlMusicForRimWorld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadShura/axlMusicForRimWorld/issues"
+  },
+  "homepage": "https://github.com/MadShura/axlMusicForRimWorld#readme",
+  "devDependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "@types/node": "^18.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.28.0",
+    "@typescript-eslint/parser": "^5.28.0",
+    "eslint": "^8.18.0",
+    "eslint-plugin-html": "^6.2.0",
+    "nodemon": "^2.0.16",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  }
+}

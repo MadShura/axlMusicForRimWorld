@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "types": [
+      "node" //node 环境 需要搭配ts-node
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
