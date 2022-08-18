@@ -6,7 +6,7 @@ const PATH = "./AXLMusic/Sounds"; // 目录
 const command = new ffmpeg();
 
 //  遍历目录得到文件信息
-const volume = '0.8' //默认音乐音量 只能是0-1
+const volume = '1' //默认音乐音量 只能是0-1
 let str = `<?xml version="1.0" encoding="utf-8"?><Defs>`;
 function walk(path, callback) {
   const files = fs.readdirSync(path);

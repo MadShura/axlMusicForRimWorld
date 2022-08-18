@@ -2,291 +2,291 @@
 <Defs>
 	<SongDef>
 		<clipPath>ABrighterTomorrow</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>Abyss</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>AdagioStellar</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>AlphaCentauri</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>AmongTheRuins</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>ANewDawn</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>AssemblingtheFleet</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>BattleForSupremacyBonusTrack</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>BridalTheme</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>CallToAssembly</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>CradleOfTheGalaxy</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>CreationAndBeyond</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>DarkMinds</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>DarkSkies</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>DeepSpaceTravels</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>DistantNebula</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>DistantNebulaInstrumental</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>DistantStarsTrailerTheme</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>Doomsday</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>DragonBreath</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>EternalCity</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>FasterThanLight</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>FasterThanLightInstrumental</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>FindingSanctuary</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>Genesis</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>GravitationalConstant</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>HegemonicDominion</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>HiddenMotives</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>HostileFleetDetected</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>InfiniteBeingAlternativeVersion</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>InfiniteBeingInstrumental</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>InMemoryofMercedesRomero</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>InMemoryofMRLuminousFlux</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>InSearchofLife</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>IntoTheDark</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>JourneyThroughtheGalaxy</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>Luminescence</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>OneGalaxy</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>OurHeritage</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>PillarsofCreation</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>RidingtheSolarWind</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>RoboSapiens</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>SevenSacraments</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>SigmaTauri</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>SnowIsComing</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>SpatialLullaby</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>StellarisSuiteCreationBeyond</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>SyntheticDawnMainTheme</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>SyntheticGod</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>TheAwakened</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>TheBirthofaStar</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>TheCelestialCity</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>TheImperialFleet</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>TheImperialFleetSecondComing</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>TheLastStand</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>TheMarchofProfit</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>TheMasterPlan</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>ThenComesLight</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>ThePerception</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>TheTitan</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>TotheEndsoftheGalaxyAlternativeVersion</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>TotheEndsoftheGalaxyInstrumental</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 	<SongDef>
 		<clipPath>TowardsUtopia</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>TowardsUtopiaNovaFlare</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>UnityandPaperwork</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 	</SongDef>
 	<SongDef>
 		<clipPath>UtopiaMainTitle</clipPath>
-		<volume>0.8</volume>
+		<volume>1</volume>
 		<tense>true</tense>
 	</SongDef>
 </Defs>
